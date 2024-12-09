@@ -1,0 +1,46 @@
+.navbar-bg{
+    background: #2c3e50;
+}
+
+.herosc-bg{
+    background-color: #2bbb9b ;
+}
+
+.profile-text{
+    font-size: 4rem;
+}
+
+.profile-second-text{
+    font-size: 1.50rem;
+}
+
+.portfolio-style{
+    font-size: 2.5rem;
+    color: #2c3e50;
+    
+}
+.about-style{
+    background-color: #2bbb9b;
+    font-size: 2.75rem;
+}
+.about-row-style{
+    font-size: 1.25rem;
+}
+.footer-bg{
+    background-color: #2c3e50;
+}
+.footer-font{
+    font-size: calc(1.275rem + 0.3vw);
+}
+.footer-font-second{
+    font-size: 1.25rem;
+}
+a.footer-link{
+    color: #2bbb9b;
+}
+.copyright-bg{
+    background-color: #1a252f;
+}
+.copyright-font{
+    font-size: 0.875em;
+}
